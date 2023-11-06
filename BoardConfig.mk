@@ -260,7 +260,7 @@ TW_RECOVERY_ADDITIONAL_RELINK_LIBRARY_FILES += \
 #RECOVERY_TOUCHSCREEN_FLIP_Y := true
 
 # Added the following to see if it sets the backup path.
-TW_STORAGE_PATH := /externel_sd
+TW_STORAGE_PATH := /external_sd
 
 # TWRP Debug Flags
 TARGET_USES_LOGD := true
